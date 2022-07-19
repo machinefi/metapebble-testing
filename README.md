@@ -21,14 +21,14 @@ If your wallet owns no NFT, the NFT list displays nothing, you can click the cla
 
 *Tip: Only for the ioTex testnet.*
 
-<img src="https://user-images.githubusercontent.com/83109624/179714126-a0cb9cc6-d8a2-4c8b-baec-faefec68b3a2.png" width="300" height="550" /><br/>
-<img src="https://user-images.githubusercontent.com/83109624/179714088-1a0117de-c8bb-4e87-808c-a46ac4de16bb.png" width="300" height="550" /><br/>
+<img src="https://user-images.githubusercontent.com/83109624/179714126-a0cb9cc6-d8a2-4c8b-baec-faefec68b3a2.png" width="300" height="580" /><br/>
+<img src="https://user-images.githubusercontent.com/83109624/179714088-1a0117de-c8bb-4e87-808c-a46ac4de16bb.png" width="300" height="580" /><br/>
 
 **5. Select NFT**
 - Select an available NFT, then click the Activate button
 - The pebble will open the iopay to excute the revalant contract methods.\
-<img src="https://user-images.githubusercontent.com/83109624/179714188-76a073ef-7491-43f3-ba87-ee3624d9fe9c.png" width="300" height="550" /><br/>
-<img src="https://user-images.githubusercontent.com/83109624/179714206-d0ac320a-603a-4cde-98b7-8c4131873ed7.png" width="300" height="550" /><br/>
+<img src="https://user-images.githubusercontent.com/83109624/179714188-76a073ef-7491-43f3-ba87-ee3624d9fe9c.png" width="300" height="580" /><br/>
+<img src="https://user-images.githubusercontent.com/83109624/179714206-d0ac320a-603a-4cde-98b7-8c4131873ed7.png" width="300" height="580" /><br/>
 
 **6. Register**\
 After completing the register action, the pebble app will query the status of device, which may be slow.<br/>
