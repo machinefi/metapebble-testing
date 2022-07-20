@@ -39,6 +39,10 @@ After completing the register action, the pebble app will query the status of de
 <img src="https://user-images.githubusercontent.com/83109624/179714275-d2674e77-d648-4089-8b2b-783bf25dd61e.png" width="300" height="550" /><br/>
 <img src="https://user-images.githubusercontent.com/83109624/179714309-6e2f9d79-dfcf-4c13-a631-8a69d7c9e561.png" width="300" height="550" /><br/>
 
-**8. Check GPS**\
+**8. Edit Server**<br/>
+Meta Pebble supports HTTPS protocol & WEBSOCKET protocol. You can switch between these two protocols in the Settings page and customize the server, or use the default server.<br/>
+<img src="https://user-images.githubusercontent.com/83109624/179890611-d69e7eb7-1a9b-44f7-9c68-be93344ce42c.png" width="300" height="550" /><br/>
+
+**9. Check GPS**\
 Pebble will upload your GPS data to the portal and you can check your GPS data on the web and map.\
 https://w3w3bstream-example.onrender.com/
