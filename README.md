@@ -17,9 +17,11 @@
 
 
 **4. Claim the NFT (if your wallet doesn't have NFTs yet)**\
-If your wallet owns no NFT, the NFT list displays nothing, you can click the claim button to open the ioPay. Then claim the NFT in dapp presented.
+If your wallet owns no NFT, the NFT list displays nothing, you can click the claim button to open the ioPay. Then claim the NFT in dapp presented.<br/>
+If you want to request test NFTs in any other wallet, you can mint here: https://metapebble.app/faucet<br/>
+If you don't have test IOTX in your test wallet, please request here: https://faucet.iotex.io/<br/>
 
-*Tip: Only for the ioTex testnet.*
+*Tip: Only for the IoTex testnet.*
 
 <img src="https://user-images.githubusercontent.com/83109624/179714126-a0cb9cc6-d8a2-4c8b-baec-faefec68b3a2.png" width="300" height="580" /><br/>
 <img src="https://user-images.githubusercontent.com/83109624/179714088-1a0117de-c8bb-4e87-808c-a46ac4de16bb.png" width="300" height="580" /><br/>
