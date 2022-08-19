@@ -41,20 +41,23 @@ Pebble will upload your GPS data to the portal and you can check your GPS data o
 https://w3w3bstream-example.onrender.com/
 
 # How Developers Query MetaPebble Service?
-Permission Settings (WIP)
+**1. Permission Settings (WIP)**<br/>
 - Developers will register with MetaPebble service and get an app token.
 - Every query needs an app token to identify the app.
 - An app can only query data under users' permission.
-- User will give permission on a permission setting website on MetaPebble.
-Create App
+- User will give permission on a permission setting website on MetaPebble.<br/>
+
+**2. Create App**<br/>
 1. Go to https://w3bstream-oauth.onrender.com/secrets
 2. Create app via input name and logo url
 3. Get the app secret
 ![image](https://user-images.githubusercontent.com/83109624/185610506-3e28f5b0-728d-4cce-8bbb-99aae5122448.png)
-Query data via app secret
+
+**3. Query data via app secret**<br/>
 1. Go to https://graphiql-online.com and using graphql api endpoint(https://dev.metapebble.app/v1/graphql)
 2. Use the app secret to query data
 ![image](https://user-images.githubusercontent.com/83109624/185610534-b93e3bcd-6529-4ab3-ad1a-4b5301f1950b.png)
+
 **Example query**
 ```
 query {
