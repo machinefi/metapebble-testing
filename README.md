@@ -39,3 +39,33 @@ Meta Pebble supports HTTPS protocol & WEBSOCKET protocol. You can switch between
 **8. Check GPS**<br/>
 Pebble will upload your GPS data to the portal and you can check your GPS data on the web and map.\
 https://w3w3bstream-example.onrender.com/
+
+# How Developers Query MetaPebble Service?
+Permission Settings (WIP)
+- Developers will register with MetaPebble service and get an app token.
+- Every query needs an app token to identify the app.
+- An app can only query data under users' permission.
+- User will give permission on a permission setting website on MetaPebble.
+Create App
+1. Go to https://w3bstream-oauth.onrender.com/secrets
+2. Create app via input name and logo url
+3. Get the app secret
+![image](https://user-images.githubusercontent.com/83109624/185610506-3e28f5b0-728d-4cce-8bbb-99aae5122448.png)
+Query data via app secret
+1. Go to https://graphiql-online.com and using graphql api endpoint(https://dev.metapebble.app/v1/graphql)
+2. Use the app secret to query data
+![image](https://user-images.githubusercontent.com/83109624/185610534-b93e3bcd-6529-4ab3-ad1a-4b5301f1950b.png)
+**Example query**
+```
+query {
+  oauth_client_user_permission{
+                user_id
+    devices{
+      deviceRecords{
+        latitude
+        longitude
+      }
+    }
+  }
+}
+```
