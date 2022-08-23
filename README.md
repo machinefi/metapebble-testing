@@ -48,7 +48,7 @@ https://w3w3bstream-example.onrender.com/
 - User will give permission on a permission setting website on MetaPebble.<br/>
 
 **2. Create App**<br/>
-1. Go to https://w3bstream-oauth.onrender.com/secrets
+1. Go to https://oauth.metapebble.app/
 2. Create app via input name and logo url
 3. Get the app secret
 ![image](https://user-images.githubusercontent.com/83109624/185610506-3e28f5b0-728d-4cce-8bbb-99aae5122448.png)
