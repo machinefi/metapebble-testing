@@ -51,7 +51,7 @@ https://w3w3bstream-example.onrender.com/
 1. Go to https://oauth.metapebble.app/
 2. Create app via input name and logo url
 3. Get the app secret
-![image](https://user-images.githubusercontent.com/83109624/185610506-3e28f5b0-728d-4cce-8bbb-99aae5122448.png)
+![image](https://user-images.githubusercontent.com/83109624/186460155-3e250027-c721-40ae-a768-bd8d1ef08874.png)
 
 **3. Query data via app secret**<br/>
 1. Go to https://graphiql-online.com and using graphql api endpoint(https://dev.metapebble.app/v1/graphql)
