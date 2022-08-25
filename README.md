@@ -14,29 +14,31 @@ The IMEI and SN is tied to the mobile, never changed after created.<br/>
 <img src="https://user-images.githubusercontent.com/83109624/181507511-8c961ce6-1e69-4ef9-ab13-a620d2aa4b54.png" width="300" height="550" /><br/>
 
 **3. Connect Wallet**<br/>
-Click ‘Connect wallet’ to connect to ioPay wallet (if you use Android for testing and cannot jump to ioPay, you need to go to the settings center to cancel the original "default" wallet).<br/>
+Click 'Active Device' to connect to ioPay wallet (if you use Android for testing and cannot jump to ioPay, you need to go to the settings center to cancel the original "default" wallet).<br/>
 
-<img src="https://user-images.githubusercontent.com/83109624/181508210-d5d14d90-14a6-48fd-bfbe-e210ce476442.png" width="300" height="550" /><br/>
+<img src="https://user-images.githubusercontent.com/83109624/186664999-c805f4e5-5d4a-4475-9cbd-0820a0d9c4c7.png" width="300" height="550" /><br/>
+
 
 **4. Active Device**<br/>
-Click the Activate button, and pebble will open iopay to execute the relevant contract methods.<br/>
+Click the 'Register', and pebble will open iopay to execute the relevant contract methods.<br/>
 <img src="https://user-images.githubusercontent.com/83109624/181509048-cbc493da-ebb6-4b47-916f-3550dfafff11.png" width="300" height="580" /><br/>
 
-**5. Register**<br/>
 After completing the register action, the pebble app will query the status of device, which may be slow.<br/>
 <img src="https://user-images.githubusercontent.com/83109624/181510380-3b3204a0-0e29-4e4c-b30b-7cd810604097.png" width="300" height="580" /><br/>
 
-**6. Upload Data to Server**<br/>
+**5. Upload Data to Server**<br/>
 - Turn on the button and enter the setting, toggle the GPS and select the interval
 - Open the pebble in the home screen, the GPS data will be uploaded to the server repeatedly\
 <img src="https://user-images.githubusercontent.com/83109624/179714275-d2674e77-d648-4089-8b2b-783bf25dd61e.png" width="300" height="550" /><br/>
-<img src="https://user-images.githubusercontent.com/83109624/179714309-6e2f9d79-dfcf-4c13-a631-8a69d7c9e561.png" width="300" height="550" /><br/>
+<img src="https://user-images.githubusercontent.com/83109624/186663774-3a3aef3a-510c-43ce-ae76-3ed4d284640f.jpg" width="300" height="550" /><br/>
 
-**7. Edit Server**<br/>
+
+**6. Edit Server**<br/>
 Meta Pebble supports HTTPS protocol & WEBSOCKET protocol. You can switch between these two protocols in the Settings page and customize the server, or use the default server.<br/>
-<img src="https://user-images.githubusercontent.com/83109624/179890611-d69e7eb7-1a9b-44f7-9c68-be93344ce42c.png" width="300" height="550" /><br/>
+<img src="https://user-images.githubusercontent.com/83109624/186663826-c89dda6f-1aa4-4604-9fbf-d210139f4967.jpg" width="300" height="550" /><br/>
 
-**8. Check GPS**<br/>
+
+**7. Check GPS**<br/>
 Pebble will upload your GPS data to the portal and you can check your GPS data on the web and map.\
 https://w3bstream-oauth-example.onrender.com/
 
