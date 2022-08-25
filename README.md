@@ -81,7 +81,7 @@ query {
 }
 ```
 
-# How to check your devcices location on the map?
+# How to check your devices location on the map?
 1.Connect wallet which register a metapebble here: https://example.metapebble.app/<br/>
 ![image](https://user-images.githubusercontent.com/83109624/186666506-88645f57-a017-4510-91e1-fb0e71671df8.png)
 
