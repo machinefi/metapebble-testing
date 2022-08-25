@@ -21,7 +21,8 @@ Click '**Active Device**' to connect to ioPay wallet (if you use Android for tes
 
 **4. Active Device**<br/>
 Click the '**Register**', and pebble will open iopay to execute the relevant contract methods.<br/>
-<img src="https://user-images.githubusercontent.com/83109624/181509048-cbc493da-ebb6-4b47-916f-3550dfafff11.png" width="300" height="580" /><br/>
+<img src="https://user-images.githubusercontent.com/83109624/186665519-2830a748-09ea-41a8-b927-2da0bb8d5768.png" width="300" height="580" /><br/>
+
 
 After completing the register action, the pebble app will query the status of device, which may be slow.<br/>
 <img src="https://user-images.githubusercontent.com/83109624/181510380-3b3204a0-0e29-4e4c-b30b-7cd810604097.png" width="300" height="580" /><br/>
