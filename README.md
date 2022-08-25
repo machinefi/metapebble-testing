@@ -14,13 +14,13 @@ The IMEI and SN is tied to the mobile, never changed after created.<br/>
 <img src="https://user-images.githubusercontent.com/83109624/181507511-8c961ce6-1e69-4ef9-ab13-a620d2aa4b54.png" width="300" height="580" /><br/>
 
 **3. Connect Wallet**<br/>
-Click 'Active Device' to connect to ioPay wallet (if you use Android for testing and cannot jump to ioPay, you need to go to the settings center to cancel the original "default" wallet).<br/>
+Click '**Active Device**' to connect to ioPay wallet (if you use Android for testing and cannot jump to ioPay, you need to go to the settings center to cancel the original 'default' wallet).<br/>
 
 <img src="https://user-images.githubusercontent.com/83109624/186664999-c805f4e5-5d4a-4475-9cbd-0820a0d9c4c7.png" width="300" height="580" /><br/>
 
 
 **4. Active Device**<br/>
-Click the 'Register', and pebble will open iopay to execute the relevant contract methods.<br/>
+Click the '**Register**', and pebble will open iopay to execute the relevant contract methods.<br/>
 <img src="https://user-images.githubusercontent.com/83109624/181509048-cbc493da-ebb6-4b47-916f-3550dfafff11.png" width="300" height="580" /><br/>
 
 After completing the register action, the pebble app will query the status of device, which may be slow.<br/>
