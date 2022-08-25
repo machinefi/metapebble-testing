@@ -43,6 +43,7 @@ Meta Pebble supports HTTPS protocol & WEBSOCKET protocol. You can switch between
 Pebble will upload your GPS data to the portal and you can check your GPS data on the web and map.\
 https://w3bstream-oauth-example.onrender.com/
 
+
 # How Developers Query MetaPebble Service?
 **1. Permission Settings (WIP)**<br/>
 - Developers will register with MetaPebble service and get an app token.
@@ -79,3 +80,14 @@ query {
   }
 }
 ```
+
+# How to check your devcices location on the map?
+1.Connect wallet which register a metapebble here: https://example.metapebble.app/<br/>
+![image](https://user-images.githubusercontent.com/83109624/186666506-88645f57-a017-4510-91e1-fb0e71671df8.png)
+
+2.Click Authorize, select Metapebble as provider.<br/>
+![image](https://user-images.githubusercontent.com/83109624/186667028-f31124f4-3611-49de-9d2f-1bc8961199f3.png)
+![image](https://user-images.githubusercontent.com/83109624/186667108-cb8f5a42-be12-46cf-a027-1157d960239b.png)
+
+3.Check the uploaded data from the authorized app or your wallet on the map.<br/>
+
