@@ -41,7 +41,7 @@ Meta Pebble supports HTTPS protocol & WEBSOCKET protocol. You can switch between
 
 **7. Check GPS**<br/>
 Pebble will upload your GPS data to the portal and you can check your GPS data on the web and map.\
-https://test.metapbble.app/
+https://example.metapebble.app/
 
 
 # How Developers Query MetaPebble Service?
