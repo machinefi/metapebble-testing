@@ -59,23 +59,18 @@ https://example.metapebble.app/
 
 **3. Query data via app secret**<br/>
 1. Go to https://graphiql-online.com and using graphql api endpoint(https://dev.metapebble.app/v1/graphql)
-2. Use the app secret to query data
-![image](https://user-images.githubusercontent.com/83109624/186458508-4ac008ab-f9cc-4d2e-87da-88675571b7a4.png)
-
-**Tips: <br/>**
-*1. Need to add '**authorization**' to Key;*<br/>
-*2. Need to add '**Bearer**' before enter secret;*<br/>
+2. Use the app secret to query data (authorization: Bearer <secret>)
+![image](https://user-images.githubusercontent.com/83109624/186850829-9d2ac671-7513-41b0-899c-823465cf43f5.png)
 
 **Example query**
 ```
 query {
-  oauth_client_user_permission{
-                user_id
-    devices{
-      deviceRecords{
-        latitude
-        longitude
-      }
+  oauth_device(limit: 20, order_by:{created_at: desc}){
+    id
+    owner
+    deviceRecord(limit: 20, order_by:{created_at: desc}){
+      latitude
+      longitude
     }
   }
 }
