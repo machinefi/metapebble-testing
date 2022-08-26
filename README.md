@@ -59,7 +59,7 @@ https://example.metapebble.app/
 
 **3. Query data via app secret**<br/>
 1. Go to https://graphiql-online.com and using graphql api endpoint(https://dev.metapebble.app/v1/graphql)
-2. Use the app secret to query data (authorization: Bearer <secret>)
+2. Use the app secret to query data (authorization: Bearer ‘secret’)
 ![image](https://user-images.githubusercontent.com/83109624/186850829-9d2ac671-7513-41b0-899c-823465cf43f5.png)
 
 **Example query**
