@@ -2,7 +2,7 @@
 *Network: IoTeX Testnet*
 
 **1. Download/Install**
-- iOS Testflight link: https://testflight.apple.com/join/CQiGu2Xc
+- iOS Testflight link: https://testflight.apple.com/join/CQiGu2Xc (Please open in Safari)
 - ioPay: build > 21
 - Android https://metapebble.s3.ap-east-1.amazonaws.com/meta-pebble/meta-pebble-v0.3.apk
 
