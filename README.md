@@ -8,23 +8,23 @@
 
 
 **2. Create Pebble**<br/>
-If you initialize the APP for the first time, Meta Pebble will automatically create a new IMEI and SN for you.<br/>
-The IMEI and SN is tied to the mobile, never changed after created.<br/>
+- If you initialize the APP for the first time, Meta Pebble will automatically create a new IMEI and SN for you.<br/>
+- The IMEI and SN is tied to the mobile, never changed after created.<br/>
 
 
 **3. Connect Wallet**<br/>
-Click '**Register Device**' to connect to your wallet (if you use Android for testing and cannot jump to ioPay, you need to go to the settings center to cancel the original 'default' wallet), currently we support ioPay and MetaMask..<br/>
+- Click '**Register Device**' to connect to your wallet (if you use Android for testing and cannot jump to ioPay, you need to go to the settings center to cancel the original 'default' wallet), currently we support ioPay and MetaMask..<br/>
 
 <img src="https://user-images.githubusercontent.com/83109624/227508213-b7820524-8d0a-4e52-8a98-e92882614d85.png" width="300" height="580" /><br/>
 <img src="https://user-images.githubusercontent.com/83109624/227510431-35a048b7-168b-4233-91ed-8d916c6a560f.png" width="300" height="580" /><br/>
 
 
 **4. Active Device**<br/>
-Click the '**Register**', and pebble will jump to your wallet to execute the relevant contract.<br/>
+- Click the '**Register**', and pebble will jump to your wallet to execute the relevant contract.<br/>
 <img src="https://user-images.githubusercontent.com/83109624/186665519-2830a748-09ea-41a8-b927-2da0bb8d5768.png" width="300" height="580" /><br/>
 
 
-After completing the register action, the pebble app will query the status of device, which may be slow.<br/>
+- After completing the register action, the pebble app will query the status of device, which may be slow.<br/>
 <img src="https://user-images.githubusercontent.com/83109624/181510380-3b3204a0-0e29-4e4c-b30b-7cd810604097.png" width="300" height="580" /><br/>
 
 **5. Upload Location Data to Server**<br/>
@@ -35,7 +35,7 @@ After completing the register action, the pebble app will query the status of de
 
 
 **6. Check GPS**<br/>
-Pebble will upload your GPS data to the portal and you can check your GPS data on the web and map.\
+- Pebble will upload your GPS data to the portal and you can check your GPS data on the web and map.\
 https://example.metapebble.app/
 
 
