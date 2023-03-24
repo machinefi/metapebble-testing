@@ -14,7 +14,6 @@
 
 **3. Connect Wallet**<br/>
 - Click '**Register Device**' to connect to your wallet (if you use Android for testing and cannot jump to ioPay, you need to go to the settings center to cancel the original 'default' wallet), currently we support ioPay and MetaMask..<br/>
-
 <img src="https://user-images.githubusercontent.com/83109624/227508213-b7820524-8d0a-4e52-8a98-e92882614d85.png" width="300" height="580" /><br/>
 <img src="https://user-images.githubusercontent.com/83109624/227510431-35a048b7-168b-4233-91ed-8d916c6a560f.png" width="300" height="580" /><br/>
 
