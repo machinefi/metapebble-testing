@@ -1,5 +1,5 @@
 # Meta Pebble-Testing
-*Network: IoTeX Testnet*
+*Network: IoTeX Mainnet*
 
 **1. Download/Install**
 - iOS Testflight link: https://testflight.apple.com/join/CQiGu2Xc (Please open in Safari)
@@ -8,38 +8,33 @@
 
 
 **2. Create Pebble**<br/>
-If you initialize the APP for the first time, click 'Get Started' and Meta Pebble will automatically create a new IMEI and SN.<br/>
+If you initialize the APP for the first time, Meta Pebble will automatically create a new IMEI and SN for you.<br/>
 The IMEI and SN is tied to the mobile, never changed after created.<br/>
 
-<img src="https://user-images.githubusercontent.com/83109624/181507511-8c961ce6-1e69-4ef9-ab13-a620d2aa4b54.png" width="300" height="580" /><br/>
 
 **3. Connect Wallet**<br/>
-Click '**Active Device**' to connect to ioPay wallet (if you use Android for testing and cannot jump to ioPay, you need to go to the settings center to cancel the original 'default' wallet).<br/>
+Click '**Register Device**' to connect to your wallet (if you use Android for testing and cannot jump to ioPay, you need to go to the settings center to cancel the original 'default' wallet), currently we support ioPay and MetaMask..<br/>
 
-<img src="https://user-images.githubusercontent.com/83109624/186664999-c805f4e5-5d4a-4475-9cbd-0820a0d9c4c7.png" width="300" height="580" /><br/>
+<img src="https://user-images.githubusercontent.com/83109624/227508213-b7820524-8d0a-4e52-8a98-e92882614d85.png" width="300" height="580" /><br/>
+<img src="https://user-images.githubusercontent.com/83109624/227510431-35a048b7-168b-4233-91ed-8d916c6a560f.png" width="300" height="580" /><br/>
 
 
 **4. Active Device**<br/>
-Click the '**Register**', and pebble will open iopay to execute the relevant contract methods.<br/>
+Click the '**Register**', and pebble will jump to your wallet to execute the relevant contract.<br/>
 <img src="https://user-images.githubusercontent.com/83109624/186665519-2830a748-09ea-41a8-b927-2da0bb8d5768.png" width="300" height="580" /><br/>
 
 
 After completing the register action, the pebble app will query the status of device, which may be slow.<br/>
 <img src="https://user-images.githubusercontent.com/83109624/181510380-3b3204a0-0e29-4e4c-b30b-7cd810604097.png" width="300" height="580" /><br/>
 
-**5. Upload Data to Server**<br/>
-- Turn on the button and enter the setting, toggle the GPS and select the interval
-- Open the pebble in the home screen, the GPS data will be uploaded to the server repeatedly\
-<img src="https://user-images.githubusercontent.com/83109624/179714275-d2674e77-d648-4089-8b2b-783bf25dd61e.png" width="300" height="550" /><br/>
-<img src="https://user-images.githubusercontent.com/83109624/186663774-3a3aef3a-510c-43ce-ae76-3ed4d284640f.jpg" width="300" height="550" /><br/>
+**5. Upload Location Data to Server**<br/>
+- Allow Meta Pebble to use your location data
+- Turn on the button in the home screen, the GPS data will be uploaded to the server repeatedly\
+<img src="https://user-images.githubusercontent.com/83109624/227514659-e056fd23-a29b-4b37-95ca-7c29090d55b3.png" width="300" height="550" /><br/>
+<img src="https://user-images.githubusercontent.com/83109624/227514932-505a31a0-1456-49ff-8bd5-047514d56f72.png" width="300" height="550" /><br/>
 
 
-**6. Edit Server**<br/>
-Meta Pebble supports HTTPS protocol & WEBSOCKET protocol. You can switch between these two protocols in the Settings page and customize the server, or use the default server.<br/>
-<img src="https://user-images.githubusercontent.com/83109624/186663826-c89dda6f-1aa4-4604-9fbf-d210139f4967.jpg" width="300" height="550" /><br/>
-
-
-**7. Check GPS**<br/>
+**6. Check GPS**<br/>
 Pebble will upload your GPS data to the portal and you can check your GPS data on the web and map.\
 https://example.metapebble.app/
 
