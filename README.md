@@ -4,7 +4,7 @@
 **1. Download/Install**
 - iOS Testflight link: https://testflight.apple.com/join/CQiGu2Xc (Please open in Safari)
 - ioPay: build > 21
-- Android https://metapebble.s3.ap-east-1.amazonaws.com/meta-pebble/meta-pebble-v1.0.apk
+- Android https://metapebble.s3.ap-east-1.amazonaws.com/meta-pebble/meta-pebble-release.apk
 
 
 **2. Create Pebble**<br/>
