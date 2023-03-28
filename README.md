@@ -2,9 +2,9 @@
 *Network: IoTeX Mainnet*
 
 **1. Download/Install**
-- iOS Testflight link: https://testflight.apple.com/join/CQiGu2Xc (Please open in Safari)
+- iOS: Please give us your Apple ID to invite you.
+- Android: https://metapebble.s3.ap-east-1.amazonaws.com/meta-pebble/meta-pebble-release.apk
 - ioPay: build > 21
-- Android https://metapebble.s3.ap-east-1.amazonaws.com/meta-pebble/meta-pebble-release.apk
 
 
 **2. Create Pebble**<br/>
